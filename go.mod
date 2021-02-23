@@ -1,3 +1,3 @@
-module github.com/mingsterism/nurmanip.git
+module github.com/mingsterism/nurmanip
 
 go 1.15
